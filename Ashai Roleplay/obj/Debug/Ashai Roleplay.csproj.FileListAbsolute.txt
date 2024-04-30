@@ -1,0 +1,11 @@
+C:\Users\emko2\OneDrive\İş masası\Ashai Roleplay\Ashai Roleplay\bin\Debug\Ashai Roleplay.exe.config
+C:\Users\emko2\OneDrive\İş masası\Ashai Roleplay\Ashai Roleplay\bin\Debug\Ashai Roleplay.exe
+C:\Users\emko2\OneDrive\İş masası\Ashai Roleplay\Ashai Roleplay\bin\Debug\Ashai Roleplay.pdb
+C:\Users\emko2\OneDrive\İş masası\Ashai Roleplay\Ashai Roleplay\obj\Debug\Ashai Roleplay.csproj.AssemblyReference.cache
+C:\Users\emko2\OneDrive\İş masası\Ashai Roleplay\Ashai Roleplay\obj\Debug\Ashai_Roleplay.Client.resources
+C:\Users\emko2\OneDrive\İş masası\Ashai Roleplay\Ashai Roleplay\obj\Debug\Ashai_Roleplay.Form1.resources
+C:\Users\emko2\OneDrive\İş masası\Ashai Roleplay\Ashai Roleplay\obj\Debug\Ashai_Roleplay.Properties.Resources.resources
+C:\Users\emko2\OneDrive\İş masası\Ashai Roleplay\Ashai Roleplay\obj\Debug\Ashai Roleplay.csproj.GenerateResource.cache
+C:\Users\emko2\OneDrive\İş masası\Ashai Roleplay\Ashai Roleplay\obj\Debug\Ashai Roleplay.csproj.CoreCompileInputs.cache
+C:\Users\emko2\OneDrive\İş masası\Ashai Roleplay\Ashai Roleplay\obj\Debug\Ashai Roleplay.exe
+C:\Users\emko2\OneDrive\İş masası\Ashai Roleplay\Ashai Roleplay\obj\Debug\Ashai Roleplay.pdb
